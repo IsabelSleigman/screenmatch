@@ -1,3 +1,5 @@
+package br.com.alura.screematch;
+
 import br.com.alura.screenmatch.modelos.Filme;
 
 public class Principal {
