@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b042371-2371-43ef-9a11-3102c89dd58f" name="Changes" comment="Criada novas classes, criada interface, utilizado polimorfismo, realizado testes de fluxo na principal">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/classificacao/FiltroRecomendacao.java" afterDir="false" />
+    <list default="true" id="6b042371-2371-43ef-9a11-3102c89dd58f" name="Changes" comment="Finalizando esqueleto.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Episodio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687530926619</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finalizando esqueleto.">
+      <created>1687533943486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687533943486</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +136,8 @@
     <MESSAGE value="Criado Classe generica para trabalhar com herança, acrescentado classe serie, ajustado classe filme" />
     <MESSAGE value="Organizado projeto" />
     <MESSAGE value="Criada novas classes, criada interface, utilizado polimorfismo, realizado testes de fluxo na principal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criada novas classes, criada interface, utilizado polimorfismo, realizado testes de fluxo na principal" />
+    <MESSAGE value="Finalizando esqueleto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando esqueleto." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
