@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b042371-2371-43ef-9a11-3102c89dd58f" name="Changes" comment="Finalizando esqueleto.">
+    <list default="true" id="6b042371-2371-43ef-9a11-3102c89dd58f" name="Changes" comment="Trabalhando com listas com objetos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687533943486</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Trabalhando com listas">
+      <created>1687548801489</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687548801489</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Trabalhando com construtores">
+      <created>1687550014905</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687550014905</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Trabalhando com listas com objetos">
+      <created>1687551685162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687551685162</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,7 +159,10 @@
     <MESSAGE value="Organizado projeto" />
     <MESSAGE value="Criada novas classes, criada interface, utilizado polimorfismo, realizado testes de fluxo na principal" />
     <MESSAGE value="Finalizando esqueleto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizando esqueleto." />
+    <MESSAGE value="Trabalhando com listas" />
+    <MESSAGE value="Trabalhando com construtores" />
+    <MESSAGE value="Trabalhando com listas com objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com listas com objetos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

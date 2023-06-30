@@ -4,7 +4,7 @@ import br.com.alura.screenmatch.modelos.Filme;
 import br.com.alura.screenmatch.modelos.Serie;
 import br.com.alura.screenmatch.modelos.Titulo;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
@@ -33,6 +33,28 @@ public class PrincipalComListas {
 
         //exemplo de outra forma com forEach
         listaDeAssistidos.forEach(System.out::println);
+
+        List<String> buscaPorArtista = new ArrayList<>();
+        buscaPorArtista.add("Adam Sandler");
+        buscaPorArtista.add("Isabel");
+        buscaPorArtista.add("Felipe");
+        buscaPorArtista.add("Gabriel");
+
+        System.out.println("Sem ordenar: " + buscaPorArtista);
+
+        Collections.sort(buscaPorArtista);
+
+        System.out.println("Ordenada: " + buscaPorArtista);
+
+        Collections.sort(listaDeAssistidos);
+
+        System.out.println("Ordenando por Nome: " + listaDeAssistidos);
+
+        listaDeAssistidos.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
+
+        System.out.println("Ordenando por Ano: " + listaDeAssistidos);
+
+
 
     }
 
